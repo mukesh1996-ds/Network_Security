@@ -1,3 +1,5 @@
 venv
 .env
 NetworkSecurity.egg-info
+NetworkSecurity.egg-info/
+
