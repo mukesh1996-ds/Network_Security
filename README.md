@@ -1,4 +1,3 @@
-```markdown
 # 🔐 Network Security Threat Detection using Machine Learning
 
 This project aims to detect **malicious or phishing URLs** using supervised Machine Learning algorithms. It uses a **modular ML pipeline**, integrates **MongoDB Atlas** for data handling, and **MLflow** for experiment tracking and reproducibility.
@@ -12,7 +11,7 @@ This project aims to detect **malicious or phishing URLs** using supervised Mach
 - 📊 **MLflow Integration**: For tracking experiments, hyperparameters, metrics, models, and artifacts.
 - 🗃️ **MongoDB Atlas**: Used to store and retrieve raw and processed datasets securely from the cloud.
 
----
+
 
 ## 🧠 Algorithms Used
 
